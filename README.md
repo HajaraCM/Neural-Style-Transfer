@@ -21,7 +21,7 @@ This project demonstrates the application of **Neural Style Transfer (NST)**, a 
 - **NumPy**: For handling image data and mathematical operations.
 - **Matplotlib**: For visualizing the images during and after the process.
 
----
+
 
 ## Approach
 
@@ -47,7 +47,7 @@ This project demonstrates the application of **Neural Style Transfer (NST)**, a 
   
 - **Ease of Use**: By using the pre-trained model, we can quickly apply different styles to various content images with minimal configuration, making this approach more accessible for rapid experimentation.
 
----
+
 
 ## Workflow
 
@@ -66,7 +66,7 @@ This project demonstrates the application of **Neural Style Transfer (NST)**, a 
 4. **Result**:
    - The result is a new image that contains the content of the original image and the style of the second image.
 
----
+
 
 ## Conclusion
 
@@ -74,7 +74,7 @@ This project demonstrates the power of deep learning to merge art and technology
 
 Both methods showcase the versatility and creativity enabled by machine learning in the domain of image processing. The VGG19 approach offers more control over the process, while TensorFlow Hub provides a quick and efficient method to achieve style transfer.
 
----
+
 
 ## License
 
