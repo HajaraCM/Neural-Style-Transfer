@@ -7,6 +7,9 @@ This project demonstrates the application of **Neural Style Transfer (NST)**, a 
 1. **Using VGG19**: This approach involves using a pre-trained Convolutional Neural Network (CNN) model to extract content and style features, followed by optimization techniques to combine them.
 2. **Using TensorFlow Hub**: A simplified, pre-trained model from TensorFlow Hub to apply style transfer directly with minimal setup.
 
+![Screenshot 2024-12-03 152211](https://github.com/user-attachments/assets/032296e4-be47-40e7-b52f-a6d7b89cd277)
+
+
 ## Key Concepts
 
 - **Content Image**: The image whose content (objects, structure, and layout) will be retained in the output.
@@ -20,9 +23,6 @@ This project demonstrates the application of **Neural Style Transfer (NST)**, a 
 - **TensorFlow Hub**: A library with pre-trained models, including a style transfer model.
 - **NumPy**: For handling image data and mathematical operations.
 - **Matplotlib**: For visualizing the images during and after the process.
-
-![Screenshot 2024-12-03 152211](https://github.com/user-attachments/assets/032296e4-be47-40e7-b52f-a6d7b89cd277)
-
 
 ## Approach
 
