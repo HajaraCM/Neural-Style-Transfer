@@ -21,6 +21,7 @@ This project demonstrates the application of **Neural Style Transfer (NST)**, a 
 - **NumPy**: For handling image data and mathematical operations.
 - **Matplotlib**: For visualizing the images during and after the process.
 
+![Screenshot 2024-12-03 152211](https://github.com/user-attachments/assets/032296e4-be47-40e7-b52f-a6d7b89cd277)
 
 
 ## Approach
